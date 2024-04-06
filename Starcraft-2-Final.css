@@ -18,6 +18,8 @@
 
         header a {
              border: none;
+             text-decoration: none;
+             outline: none; 
         }
 
         h1 {
